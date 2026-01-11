@@ -138,7 +138,15 @@ This platform is designed for adoption by government institutions with appropria
 
 ### License and Governance
 
-NEAM is released under a sovereign-use license that restricts deployment to government entities and authorized contractors. Governance documentation establishes the decision-making framework, release procedures, and community standards for platform operation.
+NEAM is released under the **GNU Affero General Public License v3.0 (AGPLv3)**, a copyleft license designed to ensure that software running as a networked service remains free and transparent. This license ensures that any deployment of NEAM as a networked service provides users with access to the complete source code, preventing proprietary modifications and ensuring sovereign auditability.
+
+The AGPLv3 was selected to:
+- Ensure court-grade auditability for all networked deployments
+- Prevent proprietary SaaS lock-in and vendor lock-in
+- Maintain sovereign control over critical economic infrastructure
+- Protect against hidden surveillance capabilities in networked software
+
+Governance documentation establishes the decision-making framework, release procedures, and community standards for platform operation.
 
 ---
 
